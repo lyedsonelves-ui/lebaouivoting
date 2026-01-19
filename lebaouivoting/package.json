@@ -1,0 +1,21 @@
+{
+  "name": "lebaoui-elections",
+  "version": "1.0.0",
+  "description": "Professional election campaign website for Lebaoui Discord server",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "start": "npx serve"
+  },
+  "keywords": [
+    "discord",
+    "elections",
+    "voting",
+    "lebaoui",
+    "community"
+  ],
+  "author": "Lebaoui Community",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
